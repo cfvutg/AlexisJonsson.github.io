@@ -18,10 +18,10 @@
     --username-button-right-margin: 1px; /* Width between the username button and the window controls */
 
     /*Server List*/
-    --server-icon-size: 32px;  /* Size of the server icons */
-    --server-outer-margin: 10px;  /* Spacing between the edge of the container and the server icons.*/
-    --server-spacing: 10px;  /* Spacing between each server icon*/
+    --server-icon-size: 1px;  /* Size of the server icons */
+    --server-outer-margin: 1px;  /* Spacing between the edge of the container and the server icons.*/
+    --server-spacing: 1px;  /* Spacing between each server icon*/
 
     /*Server Info Bar*/
-    --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
+    --app-info-bar-height: 1px; /* Height for container that holds the server name, info, actions and search */
 }
